@@ -6,7 +6,7 @@ function Portfolio() {
 
   return (
     <div>
-      <h2>This is the Portfolio</h2>
+      {/* <h2>This is the Portfolio</h2> */}
       <Project />
     </div>
   );

@@ -5,7 +5,10 @@ function Project() {
 
   return (
     <div>
-      <h2>This is the Project List</h2>
+      {/* <h2>This is the Project List</h2> */}
+      <div class="">
+
+      </div>
     </div>
   );
 }
