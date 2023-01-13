@@ -17,4 +17,33 @@
   background-color: #ede1d0;
   color: black;
   text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 40px;
+}
+#AboutMe {
+  background-color: #c07f80;
+  opacity: 0.7;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  padding: 10px;
+}
+.resumeStyling {
+  background-color: #c07f80;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 28px;
+}
+
+#ContactMe {
+  background-color: #e9bcb2;
+  opacity: 0.7;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.contactList {
+  list-style-type: none;
 }
