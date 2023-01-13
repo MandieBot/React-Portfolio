@@ -20,6 +20,12 @@
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 40px;
 }
+.headerImg {
+  width: 80px;
+  height: 90px;
+  border-radius: 20%;
+}
+
 #AboutMe {
   background-color: #c07f80;
   opacity: 0.7;
