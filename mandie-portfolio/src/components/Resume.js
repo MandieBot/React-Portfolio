@@ -5,6 +5,11 @@ function Resume() {
 
   return (
     <div class="resumeStyling">
+      <p class="resumeLink">
+        <a href="https://drive.google.com/file/d/1SAQblDNu90o7xeGYZI8Vjxt743YdYI7d/view?usp=share_link" target="_blank">
+          Download Resume Here
+        </a>
+      </p>
       <ul class="skillList">
         <li>-Browser Based Technologies: HTML5, CSS, jQuery, JavaScript, Bootstrap, Responsive Design, Local & Session Storage, React.js</li>
         <br></br>
@@ -20,12 +25,6 @@ function Resume() {
         <br></br>
         <li>-CRM: Salesforce, HubSpot, Front, SalesLoft</li>
       </ul>
-      <p>
-        View My{" "}
-        <a href="https://drive.google.com/file/d/1SAQblDNu90o7xeGYZI8Vjxt743YdYI7d/view?usp=share_link" target="_blank">
-          Resume
-        </a>
-      </p>
     </div>
   );
 }

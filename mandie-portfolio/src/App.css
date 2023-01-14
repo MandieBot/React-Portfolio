@@ -1,3 +1,13 @@
+* {
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 0;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
 .App {
   text-align: center;
 }
@@ -34,6 +44,44 @@
   font-size: 20px;
   padding: 10px;
 }
+
+.resumeLink {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: black;
+  font-weight: bold;
+}
+
+.smallerApps {
+  flex: 3;
+  display: flex;
+  flex-shrink: 2;
+  background-color: #e1aa96;
+  flex-wrap: wrap;
+  padding: 125px;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.appName {
+  font-size: 26px;
+  /* padding-bottom: 40px; */
+}
+/* 
+.snapshot {
+  padding: 10px;
+  margin: 35px;
+  flex: 0 2 395px;
+} */
+
+a {
+  text-decoration: none;
+  color: black;
+}
+.border-hover:hover {
+  border: solid 3px #fcf9ed;
+  border-top: solid 3px #fcf9ed;
+}
+
 .resumeStyling {
   background-color: #c07f80;
   text-align: center;

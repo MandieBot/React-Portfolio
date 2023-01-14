@@ -7,11 +7,9 @@ function Header() {
 
   return (
     <div className="header">
-      <img class ="headerImg" src={profilepic} alt="headshot image" />
+      <img class="headerImg" src={profilepic} alt="headshot image" />
       <h1>Mandie Botinelly</h1>
-      <h3>
-        <strong>A Gallery of Past & Ongoing Projects</strong>
-      </h3>
+
       <Navbar />
     </div>
   );
