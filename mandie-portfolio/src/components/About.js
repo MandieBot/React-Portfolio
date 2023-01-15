@@ -1,10 +1,10 @@
 import React from "react";
+import profilepic from "../images/profilepic.jpeg";
 
 function About() {
-  const linkStyle = { border: "1px black", padding: "5px" };
-
   return (
     <div id="AboutMe">
+      <img class="headerImg" src={profilepic} alt="headshot image" />
       <h2>
         Recent coding bootcamp graduate eager to leverage 7 years of diverse sales expertise to venture into a new role in software development with
         the skills acquired in frontend, backend, TDD, and Integrations Engineering. Adaptable and collaborative problem-solver with a proven track

@@ -1,8 +1,6 @@
 import React from "react";
 
 function Resume() {
-  //   const linkStyle = { border: "1px black", padding: "5px" };
-
   return (
     <div class="resumeStyling">
       <p class="resumeLink">

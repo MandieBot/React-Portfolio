@@ -7,11 +7,8 @@ import notepad from "../images/notepad.jpeg";
 import network from "../images/social-network.png";
 
 function Project() {
-  const linkStyle = { border: "1px black", padding: "5px" };
-
   return (
     <div>
-      {/* <h2>This is the Project List</h2> */}
       <div class="smallerApps">
         <p class="border-hover">
           <a href="https://lit-castle-55469.herokuapp.com/" target="_blank">

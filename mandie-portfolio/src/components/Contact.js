@@ -1,8 +1,8 @@
 import React from "react";
+import github from "../images/github-icon-small.png";
+import linkedin from "../images/linkedin-icon.png";
 
 function Contact() {
-  const linkStyle = { border: "1px black", padding: "5px" };
-
   return (
     <div id="ContactMe">
       <h2>Contact Me</h2>
@@ -11,12 +11,12 @@ function Contact() {
         <li>amandabotinelly@gmail.com</li>
         <li>
           <a href="https://github.com/MandieBot" target="_blank">
-            GitHub
+            <img src={github} alt="Github-Logo" />
           </a>
         </li>
         <li>
           <a href="https://www.linkedin.com/in/mandie-botinelly/" target="_blank">
-            LinkedIn
+            <img src={linkedin} alt="Linkedin-Logo" />
           </a>
         </li>
       </ul>
