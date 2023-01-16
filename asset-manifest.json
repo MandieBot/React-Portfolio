@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.e8899000.css",
+    "main.js": "/React-Portfolio/static/js/main.3a9c04ad.js",
+    "static/media/profilepic.jpeg": "/React-Portfolio/static/media/profilepic.736a03625b4c1464df4a.jpeg",
+    "static/media/Hogwarts-Icon.png": "/React-Portfolio/static/media/Hogwarts-Icon.601b43ff4e2d323df8d4.png",
+    "static/media/HangryResized1.png": "/React-Portfolio/static/media/HangryResized1.22e55050e7d755252715.png",
+    "static/media/white-ripples.avif": "/React-Portfolio/static/media/white-ripples.1d34ec051f29d4004093.avif",
+    "index.html": "/React-Portfolio/index.html",
+    "main.e8899000.css.map": "/React-Portfolio/static/css/main.e8899000.css.map",
+    "main.3a9c04ad.js.map": "/React-Portfolio/static/js/main.3a9c04ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8899000.css",
+    "static/js/main.3a9c04ad.js"
+  ]
+}
