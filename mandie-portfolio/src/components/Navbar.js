@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import ripples from "../images/white-ripples.avif";
 
 function Nav() {
   return (
@@ -15,6 +16,7 @@ function Nav() {
           <Link to="/resume">Resume</Link>
         </li>
       </ul>
+      <img class="rippleImg" src={ripples} alt="textured-white-ripples" />
     </div>
   );
 }
