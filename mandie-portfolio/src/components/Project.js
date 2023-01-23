@@ -1,7 +1,7 @@
 import React from "react";
-import hogwarts from "../images/Hogwarts-Icon.png";
-import hangry from "../images/HangryResized1.png";
-import weather from "../images/weather-app.png";
+import hogwarts from "../images/Hogwarts-Icon1.png";
+import hangry from "../images/HangryResized4.png";
+import goose from "../images/goose-resized1.png";
 import ecommerce from "../images/shopping-cart.jpeg";
 import notepad from "../images/notepad.jpeg";
 import network from "../images/social-network.png";
@@ -23,8 +23,8 @@ function Project() {
           </a>
         </p>
         <p class="border-hover">
-          <a href="https://mandiebot.github.io/Weather-Dashboard/" target="_blank">
-            <header class="appName">Weather Dashboard</header> <img src={weather} alt="sun peaking out behind cloud" />
+          <a href="https://golden-goose-finance.herokuapp.com/" target="_blank">
+            <header class="appName">Golden Goose Finance</header> <img src={goose} alt="golden goose logo" />
           </a>
         </p>
         <p class="border-hover">
